@@ -28,7 +28,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "ModernStorage"
 
-include(":bom")
+// include(":bom")
 include(":permissions")
 include(":photopicker")
 include(":storage")
